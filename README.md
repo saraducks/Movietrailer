@@ -1,7 +1,6 @@
 # Movietrailer
    Movie tariler application allows the user to disply his/her favourite movies in the webbrowser. The server side coding
-   helps to do this in an easier way.
-   >Python 2.7.11
+   helps to do this in an easier way.Implemented using python shell python 2.7.11
 # The mainclass >Movietrailer
   The base class movietrailer is created and can be reused for the different child classes.
   **import package webbrowser
@@ -18,7 +17,7 @@
   This method action is defined by it's name. The show trailer implies when it is executed it will show the user favourite
   movie trailer.
   
-#The subclass
+# The subclass
   This class will import the functionalities defined at base class.The other packages/class can also be imported.
   This can be done by using the "import" at beginning of the program.
   For example:
