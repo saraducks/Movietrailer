@@ -26,27 +26,27 @@
 ## The subclass
 
   This class will import the functionalities defined at base class with additional features in case it is required.The other   packages/class can also be imported.
-  This can be done by using ** "import classname/package name"** at beginning of the program.
+  This can be done by using ** "import classname/package name"**   at beginning of the program.
   
   For example:
   import baseclass __This name is same as the name given to the base class program__
   #calling the function in base class  
   
   The function defined inside the base class is called using the file name followed by the class name and it's parameters.
-  **mainclass.method_name(parameters_seperated_by_commas)**
+  **mainclass.method_name(parameters_seperated_by_commas)**  
   For example:
   The baseclass has the class name base and the method name as __init__ followed by the parameters movie_title,
   movie_storyline
   movietrailer.base(italian_job,"hijack")
-  **create list of movie name's**
+  **create list of movie name's**  
   The list is the collection of elements and enclosed within '[]'bracket's.
   The simple list is created as follows:
-  **list_name=[list_of_elements]**  
+  **list_name=[list_of_elements]**    
   For example:
   In this project the movielist is created
   movies=[sun_rise,italian_job],the movie list is created.
   
-  **Displaying the favourite movie using HTML file ** 
+  **Displaying the favourite movie using HTML file **   
   The movies will be stored in an array list and passed as parameter to the script file.
   The script files imports the required package to display the list in webbrowser.The movies are arranged in an order and 
   required style using the HTML.
