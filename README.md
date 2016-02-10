@@ -38,8 +38,7 @@
   The baseclass has the class name base and the method name as __init__ followed by the parameters movie_title,
   movie_storyline
   movietrailer.base(italian_job,"hijack")
-  
-  #create list of movie name's
+  **create list of movie name's**
   The list is the collection of elements and enclosed within '[]'bracket's.
   The simple list is created as follows:
   **list_name=[list_of_elements]**  
@@ -47,7 +46,7 @@
   In this project the movielist is created
   movies=[sun_rise,italian_job],the movie list is created.
   
-  #Displaying the favourite movie using HTML file  
+  **Displaying the favourite movie using HTML file ** 
   The movies will be stored in an array list and passed as parameter to the script file.
   The script files imports the required package to display the list in webbrowser.The movies are arranged in an order and 
   required style using the HTML.
