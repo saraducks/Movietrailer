@@ -30,7 +30,7 @@
   
   For example:
   import baseclass __This name is same as the name given to the base class program__
-  #calling the function in base class  
+  **calling the function in base class**   
   
   The function defined inside the base class is called using the file name followed by the class name and it's parameters.
   
